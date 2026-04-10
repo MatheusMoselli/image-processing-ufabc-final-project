@@ -43,7 +43,7 @@ O sistema executa as seguintes etapas para cada frame capturado:
 ## Instalação e Uso
 
 1. Clone este repositório:
-   git clone https://github.com/usuario/projeto-pdi.git
+   git clone https://github.com/MatheusMoselli/image-processing-ufabc-final-project
 
 2. Instale as bibliotecas necessárias:
    pip install -r requirements.txt
